@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finascope-sandbox/static/css/main.68b51901.css",
+    "main.js": "/finascope-sandbox/static/js/main.613448cc.js",
+    "static/js/787.e3bbf787.chunk.js": "/finascope-sandbox/static/js/787.e3bbf787.chunk.js",
+    "index.html": "/finascope-sandbox/index.html",
+    "main.68b51901.css.map": "/finascope-sandbox/static/css/main.68b51901.css.map",
+    "main.613448cc.js.map": "/finascope-sandbox/static/js/main.613448cc.js.map",
+    "787.e3bbf787.chunk.js.map": "/finascope-sandbox/static/js/787.e3bbf787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b51901.css",
+    "static/js/main.613448cc.js"
+  ]
+}
